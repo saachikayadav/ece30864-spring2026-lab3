@@ -1,0 +1,13 @@
+ANSWER 1:
+
+Pros: 
+
+Customer is also involved in the process and feedback at each stages ensures progress is being made.
+
+Accelerates pace of development
+
+Cons:
+
+Less focus on documentation since more effort is put towards development and rolling out new iteration quickly
+
+Regular sprints and client meetings can be a huge time sink as well.
