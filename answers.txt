@@ -11,3 +11,12 @@ Cons:
 Less focus on documentation since more effort is put towards development and rolling out new iteration quickly
 
 Regular sprints and client meetings can be a huge time sink as well.
+
+
+________
+
+ANSWER 2:
+
+Scrum Master: Scrum master is responsible for all scrum related tasks like Jira tooling, facilitating sprints and meetings.
+
+Product Owner: Product Owner sets direction for the team and handles releases and stakeholder management.
