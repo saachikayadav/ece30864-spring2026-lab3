@@ -48,3 +48,17 @@ Sprint Retrospective Meeting
        b) Discuss work completed and move incomplete work to backlog
 
        c) Discuss what the team can improve or do differently in the next sprint
+
+
+________
+
+ANSWER 4:
+
+Epic: Captures a large body of work that can be broken down into several smaller stories
+
+Story: A software system requirement from the perspective of the user that is expressed in a few short sentences
+
+Bug: Bugs are problems that need to be fixed that impede the progress or functionality of work
+
+Task: Represents a task that needs to be done.
+
